@@ -1,0 +1,160 @@
+id = 1
+img = 2
+A(320;635)
+B(400;754)
+state = 0
+count = 0
+player = 0
+
+id = 2
+img = 4
+A(480;635)
+B(560;754)
+state = 0
+count = 0
+player = 0
+
+id = 3
+img = 0
+A(640;635)
+B(720;754)
+state = 0
+count = 0
+player = 0
+
+id = 4
+img = 8
+A(800;635)
+B(880;754)
+state = 0
+count = 0
+player = 0
+
+id = 5
+img = 7
+A(960;635)
+B(1040;754)
+state = 0
+count = 0
+player = 0
+
+id = 6
+img = 1
+A(320;436)
+B(400;555)
+state = 1
+count = 5
+player = 0
+
+id = 7
+img = 6
+A(480;436)
+B(560;555)
+state = 0
+count = 4
+player = 0
+
+id = 8
+img = 3
+A(640;436)
+B(720;555)
+state = 0
+count = 0
+player = 0
+
+id = 9
+img = 9
+A(800;436)
+B(880;555)
+state = 0
+count = 0
+player = 0
+
+id = 10
+img = 9
+A(960;436)
+B(1040;555)
+state = 0
+count = 0
+player = 0
+
+id = 11
+img = 7
+A(320;238)
+B(400;357)
+state = 0
+count = 0
+player = 0
+
+id = 12
+img = 4
+A(480;238)
+B(560;357)
+state = 0
+count = 0
+player = 0
+
+id = 13
+img = 2
+A(640;238)
+B(720;357)
+state = 0
+count = 0
+player = 0
+
+id = 14
+img = 1
+A(800;238)
+B(880;357)
+state = 0
+count = 0
+player = 0
+
+id = 15
+img = 5
+A(960;238)
+B(1040;357)
+state = 0
+count = 0
+player = 0
+
+id = 16
+img = 6
+A(320;39)
+B(400;158)
+state = 0
+count = 0
+player = 0
+
+id = 17
+img = 0
+A(480;39)
+B(560;158)
+state = 0
+count = 0
+player = 0
+
+id = 18
+img = 3
+A(640;39)
+B(720;158)
+state = 0
+count = 0
+player = 0
+
+id = 19
+img = 5
+A(800;39)
+B(880;158)
+state = 0
+count = 0
+player = 0
+
+id = 20
+img = 8
+A(960;39)
+B(1040;158)
+state = 0
+count = 0
+player = 0
+
